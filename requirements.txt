@@ -1,0 +1,4 @@
+PyScada
+fastapi
+pandas
+msal
